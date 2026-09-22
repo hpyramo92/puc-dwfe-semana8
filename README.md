@@ -9,4 +9,4 @@ https://pucminas.instructure.com/courses/283876/assignments/1415697
 ![Print1](./prints/print1.png)
 
 ## Print da tela
-![PrintTela](./prints/PrintTela.png)
+![PrintTela](./prints/printTela.png)
